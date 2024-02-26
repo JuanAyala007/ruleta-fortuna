@@ -1,0 +1,16 @@
+.card-button {
+    display: block;
+    margin-left: auto;
+    background-color: white;
+    border: none;
+    padding: 0.6em 1.2em;
+    font-size: 1.1rem;
+    border-radius: 0.7em;
+    font-weight: 400;
+    transition: 0.3s;
+}
+.card-button:hover {
+   transform: scale(1.05);
+   background-color: #f89021;
+   color: aliceblue;
+}
